@@ -1,0 +1,8 @@
+train: /content/drive/MyDrive/TrainAI
+val: /content/drive/MyDrive/TrainAI
+
+
+# Classes
+names:
+  0: person
+
